@@ -1,0 +1,1 @@
+# lean09-copystructure
