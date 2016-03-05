@@ -5,6 +5,9 @@
 using namespace std;
 
 
+void test(Student t) {
+
+}
 
 int main(void) {
 
@@ -12,6 +15,7 @@ int main(void) {
 	Student stu2 = stu1;
 	Student stu3(stu1);
 
+	test(stu1);
 
 	system("pause");
 	return 0;
